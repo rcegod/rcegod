@@ -13,14 +13,6 @@
 </p>
 
 <br>
-<p align ="center">
- My Pinned Repository<br>
- <a href="https://github.com/rcegod/Html-Support-Site-Template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rcegod&repo=Html-Support-Site-Template&layout=compact&show_icons=true&theme=radical"/>
- </a>
-</p>
-
-<br>
 
 <p align="center">
  My Top Languages<br>
