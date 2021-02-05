@@ -1,9 +1,3 @@
-###
-<p align="center">
- <img height="87" width="327" src="finalv2.gif" align="center" alt="Ayorah Logo" />
-</p>
-
-<br>
 
 <p align="center">
  My Github Stats<br>
