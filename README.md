@@ -1,11 +1,9 @@
 I will do the sex :flushed:
 
 **Who am i?**
-
-- Name: Falicity
+- Name: Luna :wink:
 - Age: 19
-- Job: Currently out of work
-
-**More random info**
-- Female Cyber Security Analyst
-- I love too play minecraft and game UwU
+- Gender: Female
+- Job: Cyber Security Analyst
+- Hobbies: Gaming, catgirl, cosplay, knifes and coding
+- Music taste: Sad, romance, edm and daddy issues :cry:
