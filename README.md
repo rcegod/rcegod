@@ -1,11 +1,14 @@
-I will do the sex :flushed:
+Hi, my name is Luna Whitehouse. 
+You can find more information about me below
+Thanks for checking out my github :stuck_out_tongue_winking_eye:
 
 **Who am i?**
-- Name: Luna :wink:
+- Name: Luna Whitehouse
 - Age: 19
+- Born: 11/25/2002
 - Gender: Female
 - Job: Cyber Security Analyst
-- Hobbies: Gaming, catgirl, cosplay, knifes and coding
+- Hobbies: Gaming and coding
 - Music taste: I have a very limited set of music i listen too, i will release my Itunes soon
 
 **What do i do?**
